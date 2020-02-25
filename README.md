@@ -13,3 +13,4 @@ Stream data from Oracle database to Snowflake using pyodbc.
 
 
 
+[I'm looking for a new gig](https://github.com/pydemo/Resume)
